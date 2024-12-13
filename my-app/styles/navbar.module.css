@@ -1,0 +1,41 @@
+.buttonSection {
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem;
+  margin-bottom:2rem;
+  margin-right: 1rem;
+}
+
+.homeButtonStyle {
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: auto;
+  background-color: lavender;
+}
+
+.buttonStyle {
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  background-color: lavender;
+}
+
+
+.buttonStyle:hover {
+  background-color:  #ded5e8;
+  border-radius: 8px;
+}
+
+.homeButtonStyle:hover {
+  background-color: #ded5e8;
+  border-radius: 8px;
+}
+
+.navbarBody {
+  background-color: lavender;
+}

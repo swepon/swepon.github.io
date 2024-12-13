@@ -1,0 +1,65 @@
+.footerBody {
+  background-color: lavender;
+  padding-top: 1vw;
+}
+
+.flexDisplay {
+  display: flex;
+  gap: 20px;
+}
+
+.flexBox {
+  margin: 10px;
+}
+
+.formBox {
+  width: 60vw;
+  margin-left: 20vw;
+  height: 40vh;
+  display: block;
+  overflow: auto;
+}
+
+.contactBox {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.links {
+  margin: 10px;
+}
+
+.nameInput {
+  width: 100%;
+  font-size: 14px;
+  height: 5vh;
+  margin-top: 5vh;
+  border: none;
+  background-color: white;
+  padding: 5px;
+}
+
+.messageInput {
+  width: 100%;
+  font-size: 14px;
+  height: 10vh;
+  margin-top: 5vh;
+  border: none;
+  background-color: white;
+  padding: 5px;
+}
+
+.buttonStyle {
+  padding: 10px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.buttonStyle:hover {
+  background-color: #f2f2f2;
+}
+
