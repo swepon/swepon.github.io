@@ -3,10 +3,10 @@ import Footer from "../components/Footer";
 
 export default function Home() {
   return (
-    <div>      
+    <div>  
+      <title>Swetha Poneasan</title>
       <Navbar/>
       <div className="page">
-        <title>Swetha Poneasan</title>
         <div className="title">
           <h1>Hi, I'm Swetha!</h1>
           <br></br>

@@ -235,13 +235,6 @@ a.secondary {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  .logo {
-    filter: invert();
-    max-width: fit-content;
-  }
-}
-
 @media (max-width: 600px) {
   img {
     width: 40%; 

@@ -14,6 +14,7 @@
   font-size: 16px;
   margin-left: auto;
   background-color: lavender;
+  color: black;
 }
 
 .buttonStyle {
@@ -23,6 +24,7 @@
   cursor: pointer;
   font-size: 16px;
   background-color: lavender;
+  color: black;
 }
 
 
