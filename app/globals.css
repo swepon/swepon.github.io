@@ -30,13 +30,6 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 h1 {
   font-size: 40px;
   color: #3e0c7a;
