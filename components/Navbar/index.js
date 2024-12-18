@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div className={styles.navbarBody}>
       <section className={styles.buttonSection}>
-        <img className={styles.logo} src="/uploads/logo.jpg" alt="" style={{maxHeight: '80px'}}/>
+        <img className="logo" src="/uploads/logo.jpg" alt="" style={{maxHeight: '80px'}}/>
         <button className={styles.homeButtonStyle} onClick={pushToHome}>Home</button>
         <button className={styles.buttonStyle} onClick={pushToExperience}>Experience</button>
       </section>

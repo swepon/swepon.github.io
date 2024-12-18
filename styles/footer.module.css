@@ -3,6 +3,10 @@
   padding-top: 1vw;
 }
 
+.footerMargin {
+  margin-left: 0.5vw;
+}
+
 .flexDisplay {
   display: flex;
   gap: 20px;
@@ -57,6 +61,7 @@
   cursor: pointer;
   font-size: 16px;
   border-radius: 8px;
+  color: black;
 }
 
 .buttonStyle:hover {

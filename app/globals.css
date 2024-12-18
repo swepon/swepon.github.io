@@ -19,6 +19,7 @@
   padding: 80px;
   gap: 64px;
   font-family: var(--font-geist-sans);
+  background-color: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -237,5 +238,12 @@ a.secondary {
 @media (prefers-color-scheme: dark) {
   .logo {
     filter: invert();
+    max-width: fit-content;
+  }
+}
+
+@media (max-width: 600px) {
+  img {
+    width: 40%; 
   }
 }
