@@ -42,7 +42,6 @@ const Footer = () => {
           <br></br>
           <div>
             <h3>Contact Information</h3>
-            <br></br>
             <span className={styles.contactBox}>
               <a className={styles.links} href="mailto:swetha.poneasan@gmail.com">Email</a> 
               <p className={styles.links}> | </p>
